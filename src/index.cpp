@@ -43,7 +43,7 @@ void render() {
           font-size: 12px;
         "
       >
-        asm-dom-boilerplate
+        A POC of an asm-dom turned into a PWA
       </div>
     </div>
   );
