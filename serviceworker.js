@@ -12,13 +12,13 @@ var filesToCache = [
     // Compiled files
     "./manifest.4201ff0f.js",
     "./manifest.4201ff0f.map",
-    "./app.asm.69bcd8d2.js",
-    "./app.b7bdb114.map",
+    "./app.asm.5a2cf3bf.js",
+    "./app.912abccd.map",
     "./src.2d567fa5.map",
-    "./app.asm.69bcd8d2.map",
+    "./app.asm.5a2cf3bf.map",
     "./serviceworker.map",
     "./src.996355c5.css",
-    "./app.b7bdb114.js",
+    "./app.912abccd.js",
     "./src.2d567fa5.js",
     // asmjs files
     "./asmjs/app.asm.js",
